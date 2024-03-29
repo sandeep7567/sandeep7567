@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, i'm Sandeep Thakur 👋
+
+* I've been coding in JS & TS primarly for 1 years
+* Tech stack to build projects using MERN reactjs, mongoDB, expressjs, nodejs, tailwind css, shadcnUI, Radix UI, Headless UI
+* I'm building real world projects
+
 <!--
 **sandeep7567/sandeep7567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
